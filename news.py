@@ -30,8 +30,8 @@ def item(url):
 	print(itemresponse.text)
 
 
-for i in range(100):
-	itemurl =  "https://community-hacker-news-v1.p.rapidapi.com/item/" + str(response[i]) + ".json"
+for i in range(50):
+	itemurl =  ("https://community-hacker-news-v1.p.rapidapi.com/item/" + str(response[i]) + ".json")
 	item(itemurl)
 
 
