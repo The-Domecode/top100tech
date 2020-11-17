@@ -32,3 +32,5 @@ PROS :
 To show that DomeCode is THE THING to work on, get in on it early.
 
 Qt app - More like Apple News app but with links to projects and stuff on HN.
+
+Note : All further development will take place on the DomeCode CLI repository.
